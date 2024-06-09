@@ -16,3 +16,7 @@ Link of many ccs related project https://github.com/uhi22
 
 ### FOCCCI
 Main reference for scheatic and hardware designs of QCA7005 https://github.com/uhi22/foccci
+
+
+## Alternative Chips
+`IS32CG5317` Seems an alternative for QCA7000
