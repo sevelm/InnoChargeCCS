@@ -7177,7 +7177,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x03_Odd_Even"
+		(property "Value" "HC-JN254-2-03-Z"
 			(at 245.11 71.12 0)
 			(effects
 				(font

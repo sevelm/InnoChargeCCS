@@ -4325,7 +4325,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x03"
+		(property "Value" "DBT50G-7.62-3P-BK-P"
 			(at 254 88.8999 0)
 			(effects
 				(font
